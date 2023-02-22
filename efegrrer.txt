@@ -1,0 +1,19 @@
+Receipt Ref:		BILL28917		21/02/2023
+******************************************Items:		 Cost of Items(Rs)
+******************************************Fries			5500
+
+IcedTea			1000
+
+******************************************Cost of Food			5500Rs
+
+Cost of Drinks			1000Rs
+
+Cost of Dessert			200Rs
+
+Sub Total			6700RS
+
+ServiceTax			250RS
+
+TotalCost			6950RS
+
+******************************************

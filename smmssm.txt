@@ -1,0 +1,17 @@
+Receipt Ref:		BILL75442		22/01/2023
+******************************************Items:		 Cost of Items(Rs)
+******************************************Smoothies			2000
+
+******************************************Cost of Food			0Rs
+
+Cost of Drinks			0Rs
+
+Cost of Dessert			2000Rs
+
+Sub Total			2000RS
+
+ServiceTax			250RS
+
+TotalCost			2250RS
+
+******************************************

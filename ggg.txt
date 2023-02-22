@@ -1,0 +1,17 @@
+Receipt Ref:		BILL21513		22/01/2023
+******************************************Items:		 Cost of Items(Rs)
+******************************************Popsicles			200
+
+******************************************Cost of Food			0Rs
+
+Cost of Drinks			0Rs
+
+Cost of Dessert			200Rs
+
+Sub Total			200RS
+
+ServiceTax			250RS
+
+TotalCost			450RS
+
+******************************************

@@ -1,0 +1,17 @@
+Receipt Ref:		BILL91344		22/01/2023
+******************************************Items:		 Cost of Items(Rs)
+******************************************Burger			240
+
+******************************************Cost of Food			0Rs
+
+Cost of Drinks			240Rs
+
+Cost of Dessert			0Rs
+
+Sub Total			240RS
+
+ServiceTax			250RS
+
+TotalCost			490RS
+
+******************************************

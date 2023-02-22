@@ -1,0 +1,23 @@
+Receipt Ref:		BILL84229		31/01/2023
+******************************************Items:		 Cost of Items(Rs)
+******************************************Burger			1000
+
+Wings			350
+
+Coffee			300
+
+Icecream			180
+
+******************************************Cost of Food			1350Rs
+
+Cost of Drinks			150Rs
+
+Cost of Dessert			180Rs
+
+Sub Total			1680RS
+
+ServiceTax			250RS
+
+TotalCost			1930RS
+
+******************************************

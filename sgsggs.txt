@@ -1,0 +1,19 @@
+Receipt Ref:		BILL40408		21/02/2023
+******************************************Items:		 Cost of Items(Rs)
+******************************************Burger			120
+
+Popsicles			1000
+
+******************************************Cost of Food			0Rs
+
+Cost of Drinks			120Rs
+
+Cost of Dessert			1000Rs
+
+Sub Total			1120RS
+
+ServiceTax			250RS
+
+TotalCost			1370RS
+
+******************************************

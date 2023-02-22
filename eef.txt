@@ -1,0 +1,21 @@
+Receipt Ref:		BILL5989		21/02/2023
+******************************************Items:		 Cost of Items(Rs)
+******************************************Pizza			1400
+
+IcedTea			2500
+
+Cookies			2500
+
+******************************************Cost of Food			1400Rs
+
+Cost of Drinks			2500Rs
+
+Cost of Dessert			2500Rs
+
+Sub Total			6400RS
+
+ServiceTax			250RS
+
+TotalCost			6650RS
+
+******************************************
